@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/etc/flp.conf:system/etc/flp.conf \
     vendor/lge/hammerhead/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/hammerhead/proprietary/etc/permissions/serviceitems.xml:system/etc/permissions/serviceitems.xml \
-    vendor/lge/hammerhead/proprietary/etc/qcril.db:system/etc/qcril.db \
     vendor/lge/hammerhead/proprietary/etc/sensor_def_hh.conf:system/etc/sensor_def_hh.conf \
     vendor/lge/hammerhead/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/lge/hammerhead/proprietary/framework/serviceitems.jar:system/framework/serviceitems.jar \
@@ -84,6 +83,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/lge/hammerhead/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/hammerhead/proprietary/vendor/bin/vss_init:system/vendor/bin/vss_init \
+    vendor/lge/hammerhead/proprietary/vendor/etc/qcril.db:system/vendor/etc/qcril.db \
     vendor/lge/hammerhead/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/lge/hammerhead/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/lge/hammerhead/proprietary/vendor/firmware/adsp.b00:system/vendor/firmware/adsp.b00 \
