@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/hammerhead/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/hammerhead/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    vendor/lge/hammerhead/proprietary/bin/thermal-engine-hh:system/bin/thermal-engine-hh \
     vendor/lge/hammerhead/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/hammerhead/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/hammerhead/proprietary/bin/usbhub_init:system/bin/usbhub_init \
@@ -82,6 +81,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/lib/libssd.so:system/lib/libssd.so \
     vendor/lge/hammerhead/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/lge/hammerhead/proprietary/lib/libxml.so:system/lib/libxml.so \
+    vendor/lge/hammerhead/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/lge/hammerhead/proprietary/vendor/bin/vss_init:system/vendor/bin/vss_init \
     vendor/lge/hammerhead/proprietary/vendor/etc/qcril.db:system/vendor/etc/qcril.db \
     vendor/lge/hammerhead/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
