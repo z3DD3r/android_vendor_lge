@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/etc/sensor_def_hh.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensor_def_hh.conf \
     vendor/lge/hammerhead/proprietary/vendor/framework/qcrilhook.jar:$(TARGET_COPY_OUT_VENDOR)/framework/qcrilhook.jar \
     vendor/lge/hammerhead/proprietary/vendor/framework/serviceitems.jar:$(TARGET_COPY_OUT_VENDOR)/framework/serviceitems.jar \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libI420colorconvert.so:$(TARGET_COPY_OUT_VENDOR)/lib/libI420colorconvert.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadsprpc.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libchromatix_imx179_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx179_common.so \
@@ -64,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/libdrmfs.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrmfs.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libdrmtime.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrmtime.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libmm-abl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-abl.so \
-    vendor/lge/hammerhead/proprietary/vendor/lib/libmm-color-convertor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-color-convertor.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libmmQSM.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmQSM.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libmmcamera_hdr_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hdr_lib.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libmmcamera_image_stab.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_image_stab.so \
