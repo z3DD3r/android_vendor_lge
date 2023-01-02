@@ -230,6 +230,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcvirt.so
 
+PRODUCT_COPY_FILES += \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libFaceDetectCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFaceDetectCA.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock-jni-1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMegviiUnlock-jni-1.2.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libMegviiUnlock.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMegviiUnlock.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libmegface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmegface.so
+
 PRODUCT_PACKAGES += \
     UpdateSetting \
     qcrilmsgtunnel \
